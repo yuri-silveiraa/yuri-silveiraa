@@ -23,3 +23,4 @@ Moro em fortaleza-CE 🌐
 - Twitter @Yuri_Silveira1
 - Github @yuri-silveiraa
 - Email yuri.pires.silveira@gmail.com
+- Linkedln linkedin.com/in/yuri-silveira-446369224
