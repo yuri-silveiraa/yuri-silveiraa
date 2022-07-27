@@ -16,7 +16,7 @@ Moro em fortaleza-CE 🌐
 
 - Git e Github
 - JavaScript
-- React
+- NodeJS
 
 ## Meus contatos
 
