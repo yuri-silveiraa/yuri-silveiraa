@@ -9,15 +9,15 @@ Moro em fortaleza-CE 🌐
 - Tocar violão
 - Ler
 
-## Atualmente estudando 
+## Tecnologias
 
 - Git e Github
 - JavaScript
 - NodeJS
 - React
+- PHP
+- Laravel
 
 ## Meus contatos
 
-- Twitter @Yuri_Silveira1
-- Github @yuri-silveiraa
 - Email yuri.pires.silveira@gmail.com
